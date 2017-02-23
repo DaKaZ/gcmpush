@@ -1,4 +1,4 @@
-<project name="gcmpush" default="dist">
+<project name="Gcm" default="dist">
 	<description>
 		Ant build script for Titanium Android module gcmpush
 	</description>
